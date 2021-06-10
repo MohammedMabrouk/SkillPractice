@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skill Practice</string>
+    <string name="welcome_to_skill_practice">Welcome To \n<font color='#1cc4b8'>Skill Practice</font></string>
+    <string name="main_msg">A place where you can test your verbal, quantitative, and analytical skills.</string>
+    <string name="login_now">Login Now</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="email_address">Email Address</string>
+</resources>
